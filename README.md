@@ -1,2 +1,2 @@
 # DevPilot-AI
-Autonomous Multi-Agent Software Engineering Assistant using AI Agents
+An autonomous AI engineering agent that understands codebases, detects bugs, reviews code, generates tests, and improve.
