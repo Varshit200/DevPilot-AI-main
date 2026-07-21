@@ -1,2 +1,2 @@
 # DevPilot-AI
-An autonomous AI engineering agent that understands codebases, detects bugs, reviews code, generates tests, and improve.
+An AI-powered software engineering assistant that explains code, detects bugs, reviews security, generates tests, and creates documentation using Google Gemini.
